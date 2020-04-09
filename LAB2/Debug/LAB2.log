@@ -1,0 +1,6 @@
+﻿  LAB2.cpp
+C:\Users\ASUS\source\repos\LAB2\LAB2\LAB2.cpp(59,99): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\source\repos\LAB2\LAB2\LAB2.cpp(59,76): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\source\repos\LAB2\LAB2\LAB2.cpp(59,53): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ASUS\source\repos\LAB2\LAB2\LAB2.cpp(59,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  LAB2.vcxproj -> C:\Users\ASUS\source\repos\LAB2\Debug\LAB2.exe
